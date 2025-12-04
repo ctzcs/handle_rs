@@ -1,0 +1,11 @@
+[package]
+name = "handle_rs"
+version = "0.1.0"
+authors = ["TianWen 01 <yaohii@foxmail.com>"]
+edition = "2024"
+rust-version = "1.85.0"
+license = "MIT"
+keywords = ["arena","allocator","handle"]
+categories = ["memory-management","no-std"]
+
+[dependencies]
