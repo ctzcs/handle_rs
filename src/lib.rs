@@ -1,6 +1,4 @@
-use std::fmt::{Display, Formatter};
-
-/**
+/*!
 Handle-based array with free-list and alive iteration.
 
 Notes:
@@ -77,6 +75,7 @@ impl Display for Item{
 
 ```
 */
+use std::fmt::{Display, Formatter};
 
 //region Handle
 #[derive(Copy,Clone,Debug,PartialEq,Eq)]

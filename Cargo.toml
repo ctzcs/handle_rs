@@ -1,6 +1,6 @@
 [package]
 name = "handle_rs"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["TianWen 01 <yaohii@foxmail.com>"]
 edition = "2024"
 rust-version = "1.85.0"
@@ -9,5 +9,5 @@ description = "a lib for using handle array in rust more easier"
 documentation = "https://docs.rs/handle_rs"
 keywords = ["arena","allocator","handle"]
 categories = ["memory-management","no-std"]
-
+homepage = "https://github.com/ctzcs/handle_rs"
 [dependencies]
