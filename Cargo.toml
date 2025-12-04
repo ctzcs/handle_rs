@@ -5,6 +5,8 @@ authors = ["TianWen 01 <yaohii@foxmail.com>"]
 edition = "2024"
 rust-version = "1.85.0"
 license = "MIT"
+description = "a lib for using handle array in rust more easier"
+documentation = "https://docs.rs/handle_rs"
 keywords = ["arena","allocator","handle"]
 categories = ["memory-management","no-std"]
 
